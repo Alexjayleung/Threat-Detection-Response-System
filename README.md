@@ -15,10 +15,6 @@ A key feature of this project is the inclusion of a visual dashboard, which prov
 - <b>Sysmon (Sysinternals)</b> – collects detailed system activity logs on Windows
 - <b>rsyslog</b> – forwards logs from Linux systems
 - <b>Regex</b> – used in detection logic for identifying suspicious patterns
-- <b>Flask</b> – to build a lightweight web-based dashboard
-- <b>YARA (optional)</b> – rule-based scanning for malware detection
-
-
 
 
 <h2>Environments Used </h2>
@@ -28,8 +24,7 @@ A key feature of this project is the inclusion of a visual dashboard, which prov
 - <b>Kali Linux</b> – to simulate attacks and generate threat scenarios
 - <b>VirtualBox</b> – used to host all virtual machines in an isolated lab environment
 - <b>Linux Terminal & Windows Command Prompt</b> – for manual log inspection and running scripts
-- <b>Elasticsearch & Kibana (optional)</b> – for enterprise-grade log indexing and visualization
-
+- <b>Elasticsearch & Kibana</b> – for enterprise-grade log indexing and visualization
 
 
 <h2>Lab Overview:</h2>
